@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Simon437-linux
-- 👀 I’m interested in ai and roboter
+- 👀 I’m interested in ai, roboter und html
 - 🌱 I’m currently stil in school
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
